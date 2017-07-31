@@ -1,17 +1,11 @@
-Vintedge-UI V2
+Vintedge-UI V5
 ==============
 
 ![Vintedge](http://vintedge.com/images/logo_vintedge_sm.png "Vintedge")
 
-###Vintedge UI Template V2
+###Vintedge UI Template V5
 Automation for UI Developement.<br />
 <sup>Note: This template is still in development.</sup>
-
-Extract node_modules.zip to working folder for Grunt.
-
-#####What are the task added?
-* prettify
-* smushit
 
 
 ####Markdown Guide:
