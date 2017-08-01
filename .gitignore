@@ -49,3 +49,6 @@ Temporary Items
 # Directories to ignore
 /deploy
 /node_modules
+
+# Files to ignore
+package-lock.json
