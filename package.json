@@ -4,6 +4,7 @@
 	"homepage": "http://vintedge.com/",
 	"author": "Vintedge UI",
 	"devDependencies": {
+		"load-grunt-tasks": "^3.5.2",
 		"glob": "^7.1.2",
 		"grunt": "^1.0.1",
 		"grunt-browser-sync": "^2.2.0",
@@ -19,8 +20,5 @@
 		"grunt-prettify": "^0.4.0",
 		"grunt-sync": "^0.6.2",
 		"grunt-tinypng": "^0.7.0"
-	},
-	"dependencies": {
-		"load-grunt-tasks": "^3.5.2"
 	}
 }
