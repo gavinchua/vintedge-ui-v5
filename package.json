@@ -4,9 +4,9 @@
 	"homepage": "http://vintedge.com/",
 	"author": "Vintedge UI",
 	"dependencies": {
-		"load-grunt-tasks": "^3.5.2",
 		"glob": "^7.1.2",
 		"grunt": "^1.0.1",
+		"load-grunt-tasks": "^3.5.2"
 	},
 	"devDependencies": {
 		"grunt-browser-sync": "^2.2.0",
@@ -16,7 +16,7 @@
 		"grunt-contrib-jshint": "^1.1.0",
 		"grunt-contrib-pug": "^1.0.0",
 		"grunt-contrib-stylus": "^1.2.0",
-		"grunt-contrib-uglify": "^3.0.1",
+		"grunt-contrib-uglify": "^3.1.0",
 		"grunt-contrib-watch": "^1.0.0",
 		"grunt-critical": "^0.3.0",
 		"grunt-prettify": "^0.4.0",
