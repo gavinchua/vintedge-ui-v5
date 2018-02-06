@@ -79,7 +79,7 @@ Functions
 		:: Window Width
 		-------------------------------------------------- */
 		function windowWidthFN(){
-			var windowWidth =  $( window ).width();
+			var windowWidth = $( window ).width();
 			return windowWidth;
 		}
 		
@@ -87,7 +87,7 @@ Functions
 		:: Window Height
 		-------------------------------------------------- */
 		function windowHeightFN(){
-			var windowHeight =  $( window ).height();
+			var windowHeight = $( window ).height();
 			return windowHeight;
 		}
 		
@@ -95,7 +95,7 @@ Functions
 		:: Body Height
 		-------------------------------------------------- */
 		function bodyHeightFN(){
-			var bodyHeight =  $( 'body' ).height();
+			var bodyHeight = $( 'body' ).height();
 			return bodyHeight;
 		}
 		
