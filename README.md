@@ -1,5 +1,5 @@
-Vintedge-UI V5
-==============
+Vintedge-UI V5 using Stylus
+===========================
 
 ![Vintedge](http://vintedge.com/images/logo_vintedge_sm.png "Vintedge")
 
